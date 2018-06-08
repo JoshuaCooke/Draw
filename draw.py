@@ -1,4 +1,3 @@
-#draw
 import numpy as np
 
 teams = str(input("enter list of players/teams seperated by a comma (,)"))
